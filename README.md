@@ -8,6 +8,15 @@ There is a minimalistic version and a notch version (based on a random chinese A
 
 It shows a webapp (PWA versions) or a website, depending on your needs.
 
+![responsive](https://raw.githubusercontent.com/PhilGoud/responsive-icon/master/Responsive-minimal.png)
+
+![responsive-notch](https://raw.githubusercontent.com/PhilGoud/responsive-icon/master/Responsive-notch.png)
+
+![responsive](https://raw.githubusercontent.com/PhilGoud/responsive-icon/master/Responsive-minimal-PWA.png)
+
+![responsive](https://raw.githubusercontent.com/PhilGoud/responsive-icon/master/Responsive-notch-PWA.png)
+
+
 
 /*
  * ----------------------------------------------------------------------------
