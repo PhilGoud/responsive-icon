@@ -1,8 +1,11 @@
 # responsive-icon
 Sick of responsive-representing logos with an iPhone and iPad home button and/or bezels like it it 2007 ? 
-You don't want an iMac to represent the desktop ?
+You don't want an iMac to represent the desktop ? There, I fixed it for you. 
+Enjoy.
 
-There, i fixed it for you. Enjoy.
+
+There is a minimalistic version and a notch version (based on a random chinese Android phone. I don't remember which)
+
 
 /*
  * ----------------------------------------------------------------------------
