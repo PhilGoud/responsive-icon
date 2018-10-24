@@ -3,6 +3,7 @@ Sick of responsive-representing logos with an iPhone and iPad home button and/or
 You don't want an iMac to represent the desktop ? There, I fixed it for you. 
 Enjoy.
 
+Inspired by the one found here : https://www.orangekeymarketing.co.uk/web-design-middlesbrough/responsive-icon/
 
 There is a minimalistic version and a notch version (based on a random chinese Android phone. I don't remember which)
 
