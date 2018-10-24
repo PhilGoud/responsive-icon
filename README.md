@@ -6,6 +6,8 @@ Enjoy.
 
 There is a minimalistic version and a notch version (based on a random chinese Android phone. I don't remember which)
 
+It shows a webapp (PWA versions) or a website, depending on your needs.
+
 
 /*
  * ----------------------------------------------------------------------------
