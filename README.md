@@ -1,6 +1,6 @@
 # responsive-icon
 
-Do you want to reprent the concept of being responsive or multiplatform ?
+Do you want to represent the concept of your creation being responsive or multiplatform ?
 
 Are you sick of icons displaying an iPhone and iPad with a home button and/or bezels like it it 2007 ? 
 You don't want an iMac to represent the desktop ? 
